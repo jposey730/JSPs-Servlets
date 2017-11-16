@@ -1,1 +1,1 @@
-# JSPs-Servlets
+This is a login page that creates an HTTP session when you log in and invalidates the session when you log out.  Its built on JSP's and sevelets. If you want to log in the username is "user" and the password is "password". It was tested on tomcat v8.5.
